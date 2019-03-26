@@ -1,0 +1,27 @@
+
+/* Folha de estilização da página "index.html"*/
+
+body {
+	text-align: center;
+	
+}
+
+h2 {
+	
+	color: green;
+	font:  bold  20px arial, sans-serif;
+}
+
+
+table {
+
+	border-color: green;
+	text-align: center;
+}
+
+
+#bt2 {
+
+	border-color: green;
+
+}
